@@ -23,7 +23,7 @@ Tuned hyperparameters using GridSearchCV/RandomizedSearchCV for optimal performa
 Model Evaluation
 Used classification metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 ROC curves and confusion matrices to compare models.
-Best model achieved ROC-AUC score of X.XX (replace with your result).
+Best model achieved ROC-AUC score of 0.72.
 Business Impact
 
 The model provides insights into borrower risk profiles.
