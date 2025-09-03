@@ -1,7 +1,11 @@
 # LOAN-DEFAULT-PREDICTION
 📊 Loan Default Prediction using Machine Learning  This project focuses on building and evaluating machine learning models to predict the likelihood of a loan applicant defaulting. The goal is to help financial institutions reduce credit risk and make more data-driven lending decisions.
-Key Features
 
+![Loan prediction](https://github.com/user-attachments/assets/4d54b532-2e09-4237-ac07-a27a397fa0c5)
+
+
+
+Key Features
 Data Cleaning & Preprocessing
 
 Handled missing values, outliers, and categorical encoding.
