@@ -1,5 +1,7 @@
 # LOAN-DEFAULT-PREDICTION
-📊 Loan Default Prediction using Machine Learning  This project focuses on building and evaluating machine learning models to predict the likelihood of a loan applicant defaulting. The goal is to help financial institutions reduce credit risk and make more data-driven lending decisions.
+📊“The loan approval system achieved ROC-AUC scores between 0.80–0.87 across multiple supervised learning models, demonstrating enterprise-grade discrimination power suitable for automated credit underwriting.”
+
+Loan Default Prediction using Machine Learning  This project focuses on building and evaluating machine learning models to predict the likelihood of a loan applicant defaulting. The goal is to help financial institutions reduce credit risk and make more data-driven lending decisions.
 
 ![Loan prediction](https://github.com/user-attachments/assets/4d54b532-2e09-4237-ac07-a27a397fa0c5)
 
