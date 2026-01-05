@@ -1,5 +1,5 @@
 # LOAN-DEFAULT-PREDICTION
-📊“The loan approval system achieved ROC-AUC scores between 0.80–0.87 across multiple supervised learning models, demonstrating enterprise-grade discrimination power suitable for automated credit underwriting.”
+The loan default prediction system achieved a validated ROC-AUC of 0.7202, demonstrating statistically meaningful discrimination power suitable for automated credit underwriting and early-warning risk screening.
 
 Loan Default Prediction using Machine Learning  This project focuses on building and evaluating machine learning models to predict the likelihood of a loan applicant defaulting. The goal is to help financial institutions reduce credit risk and make more data-driven lending decisions.
 
@@ -25,7 +25,7 @@ Tuned hyperparameters using GridSearchCV/RandomizedSearchCV for optimal performa
 Model Evaluation
 Used classification metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 ROC curves and confusion matrices to compare models.
-Best model achieved ROC-AUC score of 0.72.
+Best model achieved ROC-AUC score of 0.72
 Business Impact
 
 The model provides insights into borrower risk profiles.
